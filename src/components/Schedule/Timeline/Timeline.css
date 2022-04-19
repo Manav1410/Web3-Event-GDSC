@@ -1,5 +1,7 @@
+@import '../util/Fonts.scss';
 .timeline-container {
     display: flex;
+    font-family: 'Open Sans';
     flex-direction: column;
     position: relative;
     margin: 40px 0;

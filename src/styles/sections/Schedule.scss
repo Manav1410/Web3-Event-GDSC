@@ -1,4 +1,5 @@
 @import '../utils/Colors.scss';
+@import '../utils/Fonts.scss';
 .schedule-container {
   background-color: $bg;
   .container {
@@ -7,6 +8,8 @@
     // display: grid;
     // grid-template-columns: repeat(2, 1fr);
     // gap: 3rem;
+    
+    font-family: 'Open Sans';
     display: flex;
     justify-content: center;
     align-items: center;

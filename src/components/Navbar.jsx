@@ -35,15 +35,15 @@ export default function Navbar() {
               <a href="#about">About</a>
             </li>
             <li>
-              <a href="#services">Schedule</a>
+              <a href="#schedule-cont">Schedule</a>
             </li>
 
             <li>
-              <a href="#testimonial">Speakers</a>
+              <a href="#blog">Speakers</a>
             </li>
 
             <li>
-              <a href="#blog">Sponsors</a>
+              <a href="#testimonial">Sponsors</a>
             </li>
             <li>
               <Button color="blue" content="Register" text="blueText" />

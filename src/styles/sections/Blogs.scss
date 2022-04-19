@@ -4,7 +4,7 @@
 	background-color: $bgLight;
 	.container {
 		margin: 0 10%;
-
+		font-family: 'Open Sans';
 		padding: 5rem 0;
 		display: flex;
 		justify-content: center;
@@ -42,7 +42,7 @@
 		.container {
 			.title-container {
 				p {
-					font-size: 1.8rem;
+					font-size: 1.4rem;
 				}
 			}
 			.blogs {

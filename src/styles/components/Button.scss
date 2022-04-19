@@ -1,9 +1,20 @@
 @import '../utils/Colors.scss';
+@import '../utils/Fonts.scss';
+
+.subTitle{
+  font-family: 'Open Sans';
+  font-size: 0.85rem;
+}
+
+.title{
+  font-size: 0.9rem;
+}
+
 button {
   color: white;
   text-transform: uppercase;
   padding: 1.2rem 2.7rem;
-
+  letter-spacing: 0.1rem;
   border: 0.1rem solid transparent;
   border-radius: 0.25rem;
   font-weight: bolder;

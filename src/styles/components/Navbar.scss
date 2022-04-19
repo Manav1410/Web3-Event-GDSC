@@ -1,7 +1,10 @@
 @import '../utils/Colors.scss';
+@import '../utils/Fonts.scss';
 .navbar {
   margin: 2rem 0;
   display: flex;
+  
+  font-family: 'Open Sans';
   justify-content: space-between;
   z-index: 3;
   transition: 0.5s ease-in;

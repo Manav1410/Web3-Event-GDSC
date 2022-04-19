@@ -4,7 +4,8 @@
   background: #172b3e !important;
   /* border: 2px solid #3aa0f3; */
   display: flex;
-  font-family: sans-serif;
+  font-family: 'Open Sans';
+  font-size: 'x-small';
   color: white;
   padding: 60px 40px;
   letter-spacing: 1px;

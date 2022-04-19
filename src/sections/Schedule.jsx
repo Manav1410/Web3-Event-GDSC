@@ -11,7 +11,7 @@ function About() {
 
   return (
     <div className="schedule-container" id="about" ref={element}>
-      <div className="container">
+      <div className="container" id="schedule-cont">
         <motion.div
           className="title-container"
           variants={textAnimation}
